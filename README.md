@@ -3,7 +3,7 @@
 This repository contains the source code for a school management system built using ASP.NET Core 7 MVC. The project is designed to provide an educational resource for developers looking to build cross-platform web applications using the latest version of the .NET Core framework.
 
 The project is a supporting repository for the course called "ASP.NET Core 7 MVC - Cross-Platform Development," which can be found at this URL: https://www.udemy.com/course/learn-aspnet-mvc-and-entity-framework/?referralCode=3B3CCAC77E3C70EF5B36.
-
+// Rakesh Tukaram kale 
 ## Table of Contents
 
 - [Technologies](#technologies)

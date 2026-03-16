@@ -19,7 +19,7 @@ namespace SchoolManagementApp.MVC.Controllers
         {
             _context = context;
         }
-
+        // Rakesh kale
         // GET: Students
         public async Task<IActionResult> Index()
         {
